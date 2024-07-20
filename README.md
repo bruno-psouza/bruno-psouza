@@ -17,7 +17,3 @@ Eu trabalho no ambiente de testes há quase 10 anos. Na última empresa, trabalh
 
 - **SQL e MySQL**: Experiência em escrever consultas SQL para combinar dados de tabelas com base em `GroupID`, ordenar resultados e recuperar informações de fornecedores.
 - **Cypress**: Preferência por configurar URLs de teste diretamente nos arquivos de teste para flexibilidade. Experiência em incluir credenciais de login nos arquivos de teste e em medir o tempo total de execução dos testes.
-
-## Envio para o GitHub
-
-Estou enviando documentação e códigos para o GitHub, mantendo uma estrutura organizada e clara para fácil acesso e entendimento.
